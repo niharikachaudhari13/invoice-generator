@@ -1,0 +1,34 @@
+# Node
+node_modules/
+build/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+myenv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Misc
+*.swp
+.idea/
+
+# Ignore local database/indexes
+pdf_chatbot/faiss_index/ 
