@@ -31,4 +31,3 @@ Thumbs.db
 .idea/
 
 # Ignore local database/indexes
-pdf_chatbot/faiss_index/ 
