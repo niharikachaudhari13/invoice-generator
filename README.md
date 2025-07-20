@@ -94,7 +94,10 @@ python pdf_chatbot_api.py
 ## Notes
 - The PDF chatbot requires a Google Generative AI API key for document analysis and Q&A.
 - Make sure both the React app and Flask backend are running for full functionality.
-<img width="1366" height="768" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/22efae70-fcb8-47a9-9641-fb0bd56a2b2e" />
+<img width="1366" height="721" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/63a2e728-280d-4fa3-acd4-4045d6c089bc" />
 
 
 
+
+<img width="1366" height="736" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/c8e8952a-6562-431e-9a74-b924c10e7ff8" />
+<img width="1366" height="721" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/65e7a24b-2aa0-4d09-be6d-05549f37c75f" />
