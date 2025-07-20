@@ -96,6 +96,7 @@ python pdf_chatbot_api.py
 - Make sure both the React app and Flask backend are running for full functionality.
 <img width="1366" height="721" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/63a2e728-280d-4fa3-acd4-4045d6c089bc" />
 
+<img width="1366" height="736" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/1b86bd1b-e2f7-46fe-a9ba-29977bb7c5a3" />
 
 
 
